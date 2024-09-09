@@ -11,11 +11,11 @@
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RasyidRlqr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasyidRlqr&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
-</div>
+### Github Stats:
 
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=RasyidRlqr&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/RasyidRlqr/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RasyidRlqr&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Rasyid Most used lang" /> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=RasyidRlqr&theme=vue-dark" alt="RasyidRlqr Streak" />                                           |  <img width="450em" align="center" alt="Rasyid Github stats"  src="https://github-readme-stats.vercel.app/api?username=RasyidRlqr&show_icons=true&count_private=true&theme=vue-dark" />   |
 ---
 
 ### Tools and technologies I use:
