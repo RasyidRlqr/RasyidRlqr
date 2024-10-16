@@ -5,7 +5,6 @@
     <li>- 🔭 I From Indonesian</li>
     <li>- 🌱 I usually learn about HTML, CSS and NODEJS</li>
     <li>- 😄 Pronouns: He/Him</li>
-    <li>- ⚡ Fun fact: I am learning about php language</li>
   </div>
 </div>
 
