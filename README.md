@@ -1,39 +1,30 @@
-## Hello my name is Rasyid!
+## Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<div align="center">
-  <div align="left" style="display: inline_block">
-    <li>- 🔭 I From Indonesian</li>
-    <li>- 🌱 I usually learn about HTML, CSS and NODEJS</li>
-    <li>- 😄 Pronouns: He/Him</li>
-  </div>
-</div>
-
----
-
-### Github Stats:
-
-| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=RasyidRlqr&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/RasyidRlqr/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RasyidRlqr&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Rasyid Most used lang" /> |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=RasyidRlqr&theme=vue-dark" alt="RasyidRlqr Streak" />                                           |  <img width="450em" align="center" alt="Rasyid Github stats"  src="https://github-readme-stats.vercel.app/api?username=RasyidRlqr&show_icons=true&count_private=true&theme=vue-dark" />   |
----
-
-### Tools and technologies I use:
-
-<div>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-
----
-
-### Contact
-
-<div>
-  <a href = "mailto:rasyidrlqr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/Rasyid_Rlqr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  
-</div>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-be5542?style=flat-square&logo=gmail&logoColor=white)](mailto:rasyidhikwan@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rasyid_rlqr)
 
 
+### About Me
+
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=richardtaylordawson&show_icons=true&hide_border=true&bg_color=212121&text_color=dcdcdc" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardtaylordawson&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=212121&text_color=dcdcdc"/>
+</p>
+
+<p>
+  <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="storybook" src="https://img.shields.io/badge/-Storyboook-ff3f79?style=flat-square&logo=storybook&logoColor=white" />
+  <img alt="jest" src="https://img.shields.io/badge/-Jest-87244c?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="netlify" src="https://img.shields.io/badge/-Netlify-3d97b4?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
+  <img alt="graphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-f0dc50?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="styled components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img alt="prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+</p>
