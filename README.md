@@ -8,8 +8,8 @@
 
 <p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rasyidrlqr&show_icons=true&hide_border=true&bg_color=212121&text_color=dcdcdc" />
-  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=RasyidRlqr&theme=dark-smoky" alt="GitHub Streak" /></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyidrlqr&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=212121&text_color=dcdcdc"/>
+    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=RasyidRlqr&theme=dark-smoky" alt="GitHub Streak" /></a>
 </p>
 
 <p>
