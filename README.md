@@ -5,12 +5,17 @@
 
 
 ### About Me
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RasyidRlqr&label=Profile%20views&color=0e75b6&style=flat" alt="RasyidRlqr" /> </p>
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rasyidrlqr&show_icons=true&hide_border=true&bg_color=212121&text_color=dcdcdc" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyidrlqr&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=212121&text_color=dcdcdc"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RasyidRlqr" alt="RasyidRlqr" /></a> 
+</p>
+<p>
     <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=RasyidRlqr&theme=dark-smoky" alt="GitHub Streak" /></a>
 </p>
+<p>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyidrlqr&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=212121&text_color=dcdcdc"/>
+</p>
+
 
 <p>
   <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
