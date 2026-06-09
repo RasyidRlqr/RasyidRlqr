@@ -7,13 +7,16 @@
 ### About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RasyidRlqr&label=Profile%20views&color=0e75b6&style=flat" alt="RasyidRlqr" /> </p>
 <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RasyidRlqr" alt="RasyidRlqr" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-alpha.vercel.app/?username=RasyidRlqr&theme=tokyonight" alt="GitHub Trophy" /></a> 
 </p>
+
+<p >
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasyidRlqr&theme=tokyonight" alt="Aksaa's GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RasyidRlqr&theme=tokyonight" alt="Top languages" />
+</p>
+
 <p>
     <a href="https://git.io/streak-stats"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=RasyidRlqr&theme=dark-smoky"/></a>
-</p>
-<p>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyidrlqr&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=212121&text_color=dcdcdc"/>
 </p>
 
 
